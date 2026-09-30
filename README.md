@@ -1,13 +1,13 @@
 # Lab 7: Boss Level Challenge 2 - Destini
 
-React Native conversion of the original Flutter lab.
+React Native and TypeScript implementation of the original Flutter branching story. Choose responses to follow the story through its branches and endings, then restart to try another path.
 
-**Status:** Work in progress.
+## Run on Android
 
-Planned contents:
+```sh
+cd source
+npm install
+npm run android
+```
 
-- React Native source code in `source/`
-- Android-compatible implementation
-- Setup and run instructions
-
-The demo video will be stored separately on the developer's machine.
+The demo video is stored separately on the developer's machine.
